@@ -4,6 +4,16 @@
 
 ## Udemy Course Analysis:
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
+![Pandas](https://img.shields.io/badge/Library-Pandas-blue.svg)
+![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-green.svg)
+![Seaborn](https://img.shields.io/badge/Library-Seaborn-purple.svg)
+![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
+
+---
+
 This project provides an in-depth analysis of Udemy course data to uncover meaningful trends, insights, and patterns from the online learning landscape.  
 The notebook explores various aspects such as pricing strategies, subject popularity, subscriber trends, and content types to understand what drives success on the Udemy platform.
 
