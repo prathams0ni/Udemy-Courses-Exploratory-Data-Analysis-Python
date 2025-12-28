@@ -11,9 +11,8 @@
 ![Seaborn](https://img.shields.io/badge/Library-Seaborn-purple.svg)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
----
 
-# 📊 Udemy Courses Exploratory Data Analysis (EDA)
+---
 
 ## 📌 Project Overview
 Online learning platforms like Udemy offer thousands of courses across different subjects, price ranges, and difficulty levels.  
